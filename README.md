@@ -1,5 +1,5 @@
 Iris Classifier — Beginner Machine Learning Project
-Beginner-friendly Python project: loads iris.csv, performs EDA, visualizes features, trains Logistic Regression and k‑NN classifiers, and saves plots.
+Loads iris.csv, performs EDA, visualizes features, trains Logistic Regression and k‑NN classifiers, and saves plots.
 This project loads the Iris dataset, performs exploratory data analysis (EDA), visualizes feature relationships, trains two beginner machine‑learning models, and generates evaluation plots like a confusion matrix.
 It was created as part of a skill‑building portfolio for future undergraduate ARCH research in engineering, data analysis, and computational modeling.
 
